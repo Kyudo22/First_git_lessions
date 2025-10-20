@@ -1,1 +1,2 @@
-git third
+Hi,
+This is my third file.
